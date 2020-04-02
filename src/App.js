@@ -54,7 +54,7 @@ return(
          <input 
              type = "text"
              className="search-bar"  
-             placeholder ="Enter City Name "
+             placeholder ="Enter City "
              onChange={e => setQuery(e.target.value)}
             value={query}
              onKeyPress={search}
