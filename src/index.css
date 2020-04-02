@@ -10,19 +10,19 @@ body{
 }
 
 .app {
-  background-image: url('D:/React/Project/projectreact/src/Assests/cold.jpg');
+  background-image: url('D:/React/Project/projectreact/src/cold.jpg');
   background-size: cover;
   background-position: bottom;
   transition: 1s ease-out;
 }
 
 .app.warm {
-  background-image: url('D:/React/Project/projectreact/src/Assests/Warm.jpg');
+  background-image: url('D:/React/Project/projectreact/src/Warm.jpg');
  
 
 }
 .app.winter {
-  background-image: url('D:/React/Project/projectreact/src/Assests/Winter.jpg');
+  background-image: url('D:/React/Project/projectreact/src/Winter.jpg');
 
 }
 main {
