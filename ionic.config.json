@@ -1,0 +1,7 @@
+{
+  "name": "projrctreact",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

@@ -103,8 +103,28 @@ main {
 .weather-box .weather{
   color: #FFF;
   font-size: 48px;
-  font-weight: 700;
+  font-weight: 500;
   text-shadow: 3px 3px rgba(0,0,0,0.5);
 
 }
+.weather-box .wind {
+color : #FFF;
+padding: 5px;
+font-weight: 300;
+display: inline-block;
+}
 
+.weather-box .feeels {
+  color : #FFF;
+  padding: 5px;
+  font-weight: 300;
+
+  
+  }
+  .weather-box .humi {
+    color : #FFF;
+    padding: 5px;
+   ;
+
+    
+    }
